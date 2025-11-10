@@ -20,6 +20,7 @@ header {
 }
 
 .title {
+  font-family: serif;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
